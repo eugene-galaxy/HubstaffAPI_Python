@@ -1,0 +1,9 @@
+
+hubstaff:
+    api_base: http://base_api
+    email: test@test
+    password: test
+    token: testtest
+
+date: '2023-06-06'
+format: ascii

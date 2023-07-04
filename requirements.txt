@@ -1,0 +1,8 @@
+
+PyYAML
+httpx
+loguru
+tabulate
+
+pytest
+pytest_httpx

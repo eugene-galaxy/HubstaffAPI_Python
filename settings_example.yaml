@@ -1,0 +1,11 @@
+
+hubstaff:
+    email: username@domain.com
+    password: XXXXXXX
+    token: YYYYYYYYY
+    api_base: https://mutator.reef.pl/v202
+
+organization_id: null
+date: -1
+format: html
+loglevel: ERROR
